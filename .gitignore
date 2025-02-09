@@ -3,3 +3,7 @@
 build/
 *.iml
 .DS_STORE
+local.properties
+**/.project
+**/.settings
+**/.classpath
